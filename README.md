@@ -24,7 +24,7 @@
   <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
- <img align="right" alt="Loy" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMycnl6bDV0dmFqeHgxZDIxMmZvM2ZwZHBpZW9waTZoenQxc3BydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWsRWhQrSXleTlMa3n/giphy.gif" style="width: 165px; float: right; margin-left: 10px;">
+ <img align="right" alt="Lexigk" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QyZDR4OHpidjFzMnNtZDZhYm50cDluN29wdzkyZzBzNnBlY3UwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vgB0SrkTmZ7i6KwWP3/giphy.gif" style="width: 165px; float: right; margin-left: 10px;">
 </div>
 
 

@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alessandra, também conhecida como Lexi
 
-- 🔭 Hoje trabalho com projetos de desenvolvimento web/Back-End e estou em busca de uma oportunidade de emprego
-- 🌱 Estudando Node.Js e JavaScript
+- 🔭 Hoje trabalho com projetos de desenvolvimento web/Front-End e estou em busca de uma oportunidade de emprego
+- 🌱 Estudando Node.Js, JavaScript, CSS e HTML
 - 😄 Pronomes: Ela/Dela
 
 <picture>
